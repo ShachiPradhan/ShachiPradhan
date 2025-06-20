@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Jigisha Singh](https://github.com/ShachiPradhan)
+![Shachi Pradhan](https://github.com/ShachiPradhan)
 
 # 👋 Hello there!
 
