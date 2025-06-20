@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Shachi Pradhan](https://github.com/ShachiPradhan)
-
 # 👋 Hello there!
 
 I'm **Shachi Pradhan**, an enthusiastic Computer Science (Data Science) student at AMC Engineering College.  
