@@ -1,4 +1,6 @@
-![ShachiPradhan]("C:\Users\Hp\Downloads\shachi.jpg")
+![Shachi Pradhan](https://github.com/user-attachments/assets/02e08f84-0398-42f6-aa25-9dc1f9ab5e8e)
+
+
 # 👋 Hello there!
 
 I'm **Shachi Pradhan**, an enthusiastic Computer Science (Data Science) student at AMC Engineering College.  
