@@ -1,4 +1,4 @@
-![ShachiPradhan](C:\Users\Hp\Downloads\Flux_Dev_Create_a_modern_and_futuristic_GitHub_banner_with_the_1.jpg.crdownload)
+![ShachiPradhan]("C:\Users\Hp\Downloads\shachi.jpg")
 # 👋 Hello there!
 
 I'm **Shachi Pradhan**, an enthusiastic Computer Science (Data Science) student at AMC Engineering College.  
