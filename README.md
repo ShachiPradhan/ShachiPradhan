@@ -1,4 +1,4 @@
-![Shachi Pradhan](https://github.com/user-attachments/assets/02e08f84-0398-42f6-aa25-9dc1f9ab5e8e)
+![Shachi Pradhan](https://github.com/user-attachments/assets/06ece41f-ba73-42e1-a68b-b31cc23713a1)
 
 
 # 👋 Hello there!
