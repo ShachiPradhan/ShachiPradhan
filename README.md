@@ -33,16 +33,10 @@ I’m passionate about using **code and data** to solve real-world problems and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShachiPradhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Shachi's GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShachiPradhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    alt="Shachi's  GitHub streak stats"/>
 </p>
-
-
----
-
-## 🌱 Currently Learning
-- Frontend frameworks (React basics)
-- Real-world data visualization
-- Git & open-source collaboration
 
 ---
 
