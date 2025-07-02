@@ -34,8 +34,8 @@ I’m passionate about using **code and data** to solve real-world problems and 
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShachiPradhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-    alt="Shachi's  GitHub streak stats"/>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShachiPradhan&theme=react-dark&hide_border=true"
+    alt="Shachi's activity graph"/>
 </p>
 
 ---
