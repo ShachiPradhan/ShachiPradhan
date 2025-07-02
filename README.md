@@ -34,8 +34,8 @@ I’m passionate about using **code and data** to solve real-world problems and 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShachiPradhan&theme=react-dark&hide_border=true"
-    alt="Shachi's activity graph"/>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShachiPradhan&theme=github_dark"
+    alt="Shachi's profile summary"/>
 </p>
 
 ---
