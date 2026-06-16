@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Header Image" width="100%">
+  <img src="https://github.com/user-attachments/assets/175147c6-34dc-4467-9f08-131abd060f17" alt="Header Image" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Shachi Pradhan! 👋</h1>
